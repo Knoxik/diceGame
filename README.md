@@ -1,4 +1,5 @@
-Сайт для игры в кости
+Сайт для игры в кости.</br>
+[GitHub Pages](https://knoxik.github.io/diceGame/)
 
 ## Стек технологий
 
